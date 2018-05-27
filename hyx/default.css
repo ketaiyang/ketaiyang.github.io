@@ -42,8 +42,8 @@ a {
 
 #clock-box {
     position: absolute;
-    left: 60px;
-    top: 550px;
+    left: 30px;
+    top: 450px;
     font-size: 28px;
     display: none;
 }
